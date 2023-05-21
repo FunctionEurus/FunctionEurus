@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FunctionEurus
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in doing nothing
+- 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on ...(currently unknown)
 - 📫 How to reach me ...->function_eurus@163.com
 
