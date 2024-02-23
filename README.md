@@ -6,7 +6,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FunctionEurus)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FunctionEurus&hidden=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FunctionEurus&hide=html,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 FunctionEurus/FunctionEurus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
