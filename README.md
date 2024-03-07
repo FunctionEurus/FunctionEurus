@@ -2,7 +2,7 @@
 - 👀 I’m interested in doing nothing
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on ...(currently unknown)
-- 📫 How to reach me ...->function_eurus@163.com
+- 📫 How to reach me ...->function.eurus@gmail.com
 
 [![wakatime](https://wakatime.com/badge/user/94865853-a852-4d24-9239-2221e04e7bfa.svg)](https://wakatime.com/@94865853-a852-4d24-9239-2221e04e7bfa)
 
